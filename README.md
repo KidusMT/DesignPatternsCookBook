@@ -6,9 +6,12 @@ Picture taken from: https://www.packetflow.co.uk/python-creational-design-patter
 
 Names:
  - Erich Gamma, 
- - Richard Helm, 
+ - Richard Helm,
  - Ralph Johnson, and 
  - John Vlissides
+
+![image](https://user-images.githubusercontent.com/18373774/111019297-eae89e80-8383-11eb-8aac-0469d59c1ef3.png)
+
 
 ## Design Patterns
   - [All Design Patterns](https://sourcemaking.com/design_patterns)
